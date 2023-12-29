@@ -5,3 +5,5 @@ for the client side, use streamlit web app.
 Load data and build an index on the server side, and then use the index to search for talk and address to users queries.
 perhaps use panel instead from https://github.com/yeyu2/Youtube_demos
 index the llm using https://docs.llamaindex.ai/en/latest/getting_started/starter_example.html
+
+11:51 am: use intro from https://docs.llamaindex.ai/en/stable/examples/llm/ollama.html
